@@ -1,0 +1,24 @@
+channels:
+  - defaults
+  - r
+dependencies:
+  - python=3.9
+  - numpy
+  - scipy
+  - pandas
+  - networkx
+  - matplotlib
+  - sympy
+  - scikit-learn
+  - statsmodels
+  - pydot
+  - seaborn
+  - pygraphviz
+  - ipython
+  - jupyter
+  - notebook
+  - simplegeneric
+  - pip
+  - pip:
+    - graphviz
+    - econml
